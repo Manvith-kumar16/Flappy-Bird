@@ -48,7 +48,7 @@ A modern recreation of the classic arcade mobile game **Flappy Bird**, built usi
 
 1. Clone the repository:
 
-   ```bash
+```bash
    git clone https://github.com/Manvith-kumar16/Flappy-Bird.git
 ````
 
