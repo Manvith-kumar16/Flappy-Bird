@@ -98,4 +98,8 @@ Contributions are welcome! If you have suggestions or find bugs, feel free to op
 * The original creators of **Flappy Bird** for the inspiration
 * Unity documentation and community for guidance and support
 
-```![Flappy Bird Preview](Game%20Images/Game3.jpg)
+---
+
+![Flappy Bird Preview](Game%20Images/Game3.jpg)
+
+---
