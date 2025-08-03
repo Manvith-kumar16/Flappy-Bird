@@ -98,19 +98,4 @@ Contributions are welcome! If you have suggestions or find bugs, feel free to op
 * The original creators of **Flappy Bird** for the inspiration
 * Unity documentation and community for guidance and support
 
-```
-
----
-
-✅ **Note:**  
-Make sure the image file exists at this relative path:  
-```
-
-Flappy-Bird/Game Images/Game2.png
-
-```
-
-If the folder or image name contains spaces, GitHub handles it properly when using `%20` in the path.
-
-Let me know if you’d like to add more images or convert this into a GitHub Pages site!
-```
+```![Flappy Bird Preview](Game%20Images/Game3.jpg)
