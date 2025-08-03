@@ -42,16 +42,19 @@ A modern recreation of the classic arcade mobile game **Flappy Bird**, built usi
 - [Unity Hub](https://unity.com/download)  
 - Unity Editor (LTS version recommended)
 
-### Installation
+---
+
+### 🔧 Installation
 
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/Manvith-kumar16/Flappy-Bird.git
 ````
-2. Open the project in Unity Editor.
 
-### Running the Application
+2. Open the project in Unity Editor.---
+
+### ▶️ Running the Application
 
 1. Open the `Flappy Bird.unity` scene file.
 2. Press the **Play** button in the Unity Editor to run the game.
@@ -88,12 +91,7 @@ Contributions are welcome! If you have suggestions or find bugs, feel free to op
 
 ## 🙏 Acknowledgments
 
-* The original creators of **Flappy Bird** for the inspiration.
-* Unity documentation and community for guidance on best practices.
+* The original creators of **Flappy Bird** for the inspiration
+* Unity documentation and community for guidance and support
 
-```
 
----
-
-Let me know if you’d like to include screenshots or a gameplay GIF in the README too!
-```
