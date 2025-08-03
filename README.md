@@ -102,4 +102,3 @@ Contributions are welcome! If you have suggestions or find bugs, feel free to op
 
 ![Flappy Bird Preview](Game%20Images/Game3.jpg)
 
----
