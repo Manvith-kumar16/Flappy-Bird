@@ -2,6 +2,8 @@
 
 A modern recreation of the classic arcade mobile game **Flappy Bird**, built using the **Unity** game engine. This project demonstrates core game development concepts in Unity, including C# scripting, physics, and UI management.
 
+![Flappy Bird Preview](Game%20Images/Game2.png)
+
 ---
 
 ## 🚀 Features
@@ -52,7 +54,9 @@ A modern recreation of the classic arcade mobile game **Flappy Bird**, built usi
    git clone https://github.com/Manvith-kumar16/Flappy-Bird.git
 ````
 
-2. Open the project in Unity Editor.---
+2. Open the project in Unity Editor.
+
+---
 
 ### ▶️ Running the Application
 
@@ -94,4 +98,19 @@ Contributions are welcome! If you have suggestions or find bugs, feel free to op
 * The original creators of **Flappy Bird** for the inspiration
 * Unity documentation and community for guidance and support
 
+```
 
+---
+
+✅ **Note:**  
+Make sure the image file exists at this relative path:  
+```
+
+Flappy-Bird/Game Images/Game2.png
+
+```
+
+If the folder or image name contains spaces, GitHub handles it properly when using `%20` in the path.
+
+Let me know if you’d like to add more images or convert this into a GitHub Pages site!
+```
