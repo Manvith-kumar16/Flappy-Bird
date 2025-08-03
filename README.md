@@ -49,7 +49,6 @@ A modern recreation of the classic arcade mobile game **Flappy Bird**, built usi
    ```bash
    git clone https://github.com/Manvith-kumar16/Flappy-Bird.git
 ````
-
 2. Open the project in Unity Editor.
 
 ### Running the Application
