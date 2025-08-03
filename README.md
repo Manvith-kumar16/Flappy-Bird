@@ -2,6 +2,7 @@
 🐦 Flappy Bird (Unity Project)
 A modern recreation of the classic arcade mobile game, Flappy Bird, built using the Unity game engine. This project demonstrates core game development concepts in Unity, including C# scripting, physics, and UI management.
 
+
 🚀 Features
 
 Flap-to-Fly Mechanic: The bird's movement is controlled by a single input (Space key), applying an upward force to a Rigidbody2D.
@@ -30,6 +31,8 @@ gameOver function is called, activating this screen and ending the game.
 
 Restart Functionality: A "Play Again" button on the game over screen calls the restartGame() method in the LogicScript, which reloads the active scene to start a new game.
 
+
+
 🛠️ Technologies Used
 Game Engine: Unity
 
@@ -47,17 +50,14 @@ Unity Hub
 Unity Editor (LTS recommended)
 
 Installation
-Clone the repository:
 
-Bash
+Clone the repository: Bash git clone https://github.com/Manvith-kumar16/Flappy-Bird.git
 
-git clone https://github.com/Manvith-kumar16/Flappy-Bird.git
 Open the project in the Unity Editor.
-
 Running the Application
 Open the Flappy Bird.unity scene file.
-
 Press the Play button in the Unity Editor to run the game.
+
 
 🤝 Contributing
 Contributions are welcome! If you have a suggestion or find a bug, please feel free to open an issue or submit a pull request.
@@ -71,6 +71,7 @@ Commit your changes (git commit -m 'Add some AmazingFeature').
 Push to the branch (git push origin feature/AmazingFeature).
 
 Open a pull request.
+
 
 🙏 Acknowledgments
 The original creators of Flappy Bird for the inspiration.
