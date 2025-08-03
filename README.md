@@ -1,4 +1,4 @@
-Game Images/Game2.png
+![Flappy Bird Gameplay](Game Images/Game2.png)
 
 🐦 Flappy Bird (Unity Project)
 A modern recreation of the classic arcade mobile game, Flappy Bird, built using the Unity game engine. This project demonstrates core game development concepts in Unity, including C# scripting, physics, and UI management.
